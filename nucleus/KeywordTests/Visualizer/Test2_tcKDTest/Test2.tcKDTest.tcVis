@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{891073CF-1627-4D6A-AEB1-5CA93006066E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="42650.1675231481" objectName="Aliases.browser.pageNewtab.panelMngb" objectLeft="0" objectTop="81" objectRight="1349" objectBottom="111" clickPointX="873" clickPointY="94" imageFileName="tcvi290634308129760.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="42650.1675925926" objectName="Aliases.browser.pageRollup201609302Nucleushealth.panel.panel.panel" objectLeft="1149" objectTop="74" objectRight="1297" objectBottom="108" clickPointX="1278" clickPointY="87" imageFileName="tcvi290641125129761.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="42650.1676157407" objectName="Aliases.browser.pageRollup201609302Nucleushealth.panel.panel.panel.panelSignoutbutton" objectLeft="1176" objectTop="117" objectRight="1296" objectBottom="145" clickPointX="1239" clickPointY="124" imageFileName="tcvi290642467129762.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
